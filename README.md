@@ -1,2 +1,2 @@
 # node-tesseract-ocr-test
-側視圖像辨識
+測試圖像辨識
