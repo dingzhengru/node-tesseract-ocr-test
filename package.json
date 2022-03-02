@@ -1,0 +1,25 @@
+{
+  "name": "tesseract-ocr-test",
+  "version": "1.0.0",
+  "description": "測試圖像辨識",
+  "main": "main.js",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "tesseract.js": "^2.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingzhengru/node-tesseract-ocr-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dingzhengru/node-tesseract-ocr-test/issues"
+  },
+  "homepage": "https://github.com/dingzhengru/node-tesseract-ocr-test#readme"
+}
